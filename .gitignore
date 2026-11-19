@@ -1,0 +1,13 @@
+# Personal profile and everything the agents produce while running.
+profile.md
+main.md
+jobs.xlsx
+~$*.xlsx
+state.json
+ats_cache.json
+.lock
+.agent-cwd/
+digests/
+runs/
+logs/
+__pycache__/
